@@ -5,7 +5,7 @@ This project demonstrates how to launch an Amazon EC2 instance and connect to it
 
 ---
 
-## 📌 Project Objective
+## Project Objective
 
 To spin up an EC2 instance using Amazon Linux 2 and connect to it remotely via SSH using a `.pem` key pair, ensuring secure access.
 
@@ -35,7 +35,7 @@ To spin up an EC2 instance using Amazon Linux 2 and connect to it remotely via S
 
 ---
 
-### 2. 🔐 Set Permissions for the PEM File
+### 2. Set Permissions for the PEM File
 
 ```bash
 chmod 400 ec2-key.pem
