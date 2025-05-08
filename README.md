@@ -54,5 +54,9 @@ Your browser will download ``ec2-key.pem`` — save it securely!
 
 ### 2. Set Permissions for the PEM File
 
-```bash
-chmod 400 ec2-key.pem
+- Your ``.pem ``file must have restricted permissions for SSH to work. Open your terminal and run:
+  
+   ``chmod 400 ec2-key.pem``
+
+- This prevents the key from being publicly viewable.
+  
