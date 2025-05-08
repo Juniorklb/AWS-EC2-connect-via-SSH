@@ -33,6 +33,23 @@ To spin up an EC2 instance using Amazon Linux 2 and connect to it remotely via S
   - **Key Pair**: Create/download a `.pem` file
   - **Security Group**: Allow SSH (port 22) from your IP
 
+| Setting               | Value                       |
+| --------------------- | --------------------------- |
+| **Name**              | `ec2-ssh-demo`              |
+| **AMI**               | Amazon Linux 2 (64-bit x86) |
+| **Instance type**     | `t2.micro` (Free Tier)      |
+| **Key pair**          | Create new: `ec2-key.pem`   |
+| **Network settings**  | Allow SSH (Port 22)         |
+| **Storage**           | Default (8 GB gp2)          |
+| **Advanced settings** | Leave default               |
+
+#### Key Pair Creation
+- Click Create new key pair
+- Name: ``ec2-key``
+- Type: RSA
+- Format: ``.pem``
+- Click Create key pair
+Your browser will download ``ec2-key.pem`` — save it securely!
 ---
 
 ### 2. Set Permissions for the PEM File
