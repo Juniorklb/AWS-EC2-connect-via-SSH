@@ -50,6 +50,7 @@ To spin up an EC2 instance using Amazon Linux 2 and connect to it remotely via S
 - Format: ``.pem``
 - Click Create key pair
 Your browser will download ``ec2-key.pem`` — save it securely!
+![image alt](https://github.com/Juniorklb/AWS-EC2-connect-via-SSH/blob/b2eb7be02f98b2e85c720425528e339bdffc43c4/Images/KEYPAIR.PNG)
 ---
 
 ### 2. Set Permissions for the PEM File
