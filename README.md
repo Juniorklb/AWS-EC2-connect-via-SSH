@@ -84,9 +84,7 @@ Your browser will download ``ec2-key.pem`` — save it securely!
 This project demonstrates how to securely connect to an AWS EC2 instance via SSH using a PEM key. I gained hands-on experience with key permissions, security groups, and remote server access a foundational skill for cloud and DevOps work.
 
 ## 📚 Author
-![AWS](https://img.shields.io/badge/Built%20with-AWS-orange?style=flat&logo=amazonaws) by Junior Kalomba
+![AWS](https://img.shields.io/badge/Built%20with-AWS-orange?style=flat&logo=amazonaws)![BY](https://img.shields.io/badge/--Junior-green)
 **🔗 Feel free to contribute or suggest improvements!** 
 <p align="right">
   <a href="https://www.linkedin.com/in/junior-kalomba-10002a18a/" target="_blank"> 
-    
-![AWS](https://img.shields.io/badge/Built%20with-AWS-orange?style=flat&logo=amazonaws)![BY](https://img.shields.io/badge/with---Junior-green)
