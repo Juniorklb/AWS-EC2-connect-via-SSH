@@ -62,6 +62,7 @@ Your browser will download ``ec2-key.pem`` — save it securely!
   
 ### Step 3: Connect to Your EC2 Instance via SSH
  **Copy Your Public IP**
+- From the [AWS EC2 Console](https://console.aws.amazon.com/ec2)
 - From the EC2 Dashboard:
 - Go to Instances
 - Select your running instance
