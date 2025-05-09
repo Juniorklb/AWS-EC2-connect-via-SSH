@@ -1,5 +1,5 @@
 # 🖥️ AWS EC2 SSH Connection Project
-![AWS](https://img.shields.io/badge/Built%20with-AWS-orange?style=flat&logo=amazonaws)![Project Status](https://img.shields.io/badge/status-in--progress-yellow)
+![AWS](https://img.shields.io/badge/Built%20with-AWS-orange?style=flat&logo=amazonaws)![Project Status](https://img.shields.io/badge/status-finished-green)
 
 This project demonstrates how to launch an Amazon EC2 instance and connect to it securely via SSH from your local terminal. It's a foundational AWS skill used in almost every cloud computing environment.
 
