@@ -74,3 +74,9 @@ Your browser will download ``ec2-key.pem`` — save it securely!
   
 - Replace ``<your-ec2-public-ip>`` with your real IP.
 - Example:``ssh -i ec2-key.pem ec2-user@3.91.45.72``
+
+- you're now successfully connected to your EC2 instance via SSH! 🟢
+
+## Conclusion
+This project demonstrates how to securely connect to an AWS EC2 instance via SSH using a PEM key. I gained hands-on experience with key permissions, security groups, and remote server access — a foundational skill for cloud and DevOps work.
+
