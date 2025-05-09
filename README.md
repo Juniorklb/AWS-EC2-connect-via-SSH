@@ -75,7 +75,7 @@ Your browser will download ``ec2-key.pem`` — save it securely!
   
 - Replace ``<your-ec2-public-ip>`` with your real IP.
 - Example:``ssh -i ec2-key.pem ec2-user@3.91.45.72``
-
+![image alt](https://github.com/Juniorklb/AWS-EC2-connect-via-SSH/blob/c124259f6a98eb660f9da1a8d12d1f988543e5e6/Images/Cloudshell.PNG)
 - you're now successfully connected to your EC2 instance via SSH! 🟢
 
 ## Conclusion
