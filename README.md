@@ -60,3 +60,16 @@ Your browser will download ``ec2-key.pem`` — save it securely!
 
 - This prevents the key from being publicly viewable.
   
+### Step 3: Connect to Your EC2 Instance via SSH
+ **Copy Your Public IP**
+- From the EC2 Dashboard:
+- Go to Instances
+- Select your running instance
+- Copy the **Public IPv4 address**
+
+#### Run the SSH Command in CloudShell
+
+  ``ssh -i ec2-key.pem ec2-user@<your-ec2-public-ip>``
+  
+- Replace ``<your-ec2-public-ip>`` with your real IP.
+- Example:``ssh -i ec2-key.pem ec2-user@3.91.45.72``
